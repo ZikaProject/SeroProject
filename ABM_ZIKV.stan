@@ -1,5 +1,8 @@
-/* empty stan model that generates quantities.
- first attempt at ABM. */
+/* 
+###        ABM in STAN           ###
+#     20.12.2018-14.05.2019        #    
+#           M.J.Counotte           #
+#################################### */
 functions {
   real RateToProb01(real rate){ //returns probability per week based on daily rate.
 	return(1-exp(-(rate*0.1)));

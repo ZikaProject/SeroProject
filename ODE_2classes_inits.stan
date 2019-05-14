@@ -1,4 +1,8 @@
-// two age classes, with inital values that are drawn from exponential distribution, allowing for scaling of the begin size. [12.12]
+/* 
+###        ODE in STAN           ###
+#     20.12.2018-14.05.2019        #    
+#           M.J.Counotte           #
+#################################### */
 functions {
     real[] SIR(real t,real[] y,real[] params,real[] x_r,int[] x_i) {
     
