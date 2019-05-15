@@ -8,5 +8,5 @@ Model code to the paper:
 Michel J. Counotte, Christian Althaus, Nicola Low, Julien Riou
 
 
-## LICENSE: !!!DECIDE ON THIS!!!
+## LICENSE: GNU General Public License v3.0
 
