@@ -3,7 +3,7 @@
 
 Model code to the paper:
 
-"The next Zika virus outbreak will affect young women of reproductive age disproportionately: mathematical modeling study"
+"Impact of age-specific immunity on the timing and burden of the next Zika virus outbreak"
 
 Michel J. Counotte, Christian L. Althaus, Nicola Low, Julien Riou
 
